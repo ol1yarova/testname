@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Топ-3 самых маленьких пород собак
 
-You can use the [editor on GitHub](https://github.com/ol1yarova/testname/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Почему заводят маленьких собак?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Большую роль в популярности миниатюрных пород сыграла мода. На обложках модных журналов мелькают стильные девушки с собачками в руках, знаменитые люди в интервью упоминают про своих крошечных любимцев. Всё это действует на подсознание людей, особенно девушек и женщин, которые воспринимают наличие собачки как часть успешного имиджа.
 
-### Markdown
+### Чихуахуа
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Branching](chihu.jpg)
 
-```markdown
-Syntax highlighted code block
+Самой маленькой породой собак в мире признана чихуахуа. Стандартный рост этих крошек – 15-23 см, а вес варьируется в пределах 3 кг. Но в селекции происходят и настоящие чудеса, когда на свет появляются совершенно игрушечные собачки, как например чихуахуа Милли с рекордным для собаки ростом 9,6 см и весом 500 гр. Представьте, как нужно бережно общаться с таким маленьким питомцем, а корм она способна поглощать только маленькими каплями.
 
-# Header 1
-## Header 2
-### Header 3
+### Померанский шпиц
 
-- Bulleted
-- List
+![Branching](pomeran.jpg)
 
-1. Numbered
-2. List
+Вы очарованы пушистым комочком под названием померанский шпиц? Вы не одиноки, под его очарование попадали многие известные люди: королевы, писатели, художники и кумиры современности. Рост этой собаки не более 22 см, но из-за вертикально стоящего подшёрстка, они кажутся несколько крупнее. Вес померанских шпицев не более 3,5 кг. Они будут идеальными компаньонами практически для любого человека.
 
-**Bold** and _Italic_ and `Code` text
+### Йоркширский терьер
 
-[Link](url) and ![Image](src)
-```
+![Branching](york.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+В последнее 10-летие к этой породе появилось повышенное внимание. Йоркширские терьеры сейчас на пике популярности из-за своей внешности и интересного характера. С таким домашним любимцем вы никогда не соскучитесь, он приносит массу положительных эмоций своим владельцам благодаря пылкому нраву и решительному характеру.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ol1yarova/testname/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+КОД ТРЕКЕРА?
